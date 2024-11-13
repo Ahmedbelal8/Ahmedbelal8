@@ -30,12 +30,3 @@ I’m an experienced Java Backend Engineer with a strong foundation in building 
 - Developed an automated order tracking system with real-time courier integrations, saving 6+ hours daily for customer service.
 - Designed a multi-storefront support solution and integrated diverse payment gateways, enhancing customer experience across Egypt, Saudi Arabia, and Libya.
 
----
-
-### 📈 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedbelal8&show_icons=true&theme=radical)
-
----
-
-### 💡 Let's Connect!
-I’m always open to collaboration on open-source projects and connecting with like-minded developers. Feel free to reach out via [LinkedIn](https://linkedin.com/in/ahmed-belal-muhammed) or check out my projects here on GitHub!
